@@ -1,0 +1,42 @@
+/*
+* Emily Torres
+* Due Date 
+* Project Name and Description 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+    font-family: sans-serif, Helvetica, Arial
+
+}
+
+h1 {
+    
+    text-decoration: overline underline;
+    
+    text-align: center;
+    
+    font-size: 26pt;
+}
+
+
+p {
+    color: darkblue
+}
+
+
+#header {background-color: lightblue}
+
+#main {background-color: pink}
+
+#footer {background-color: lightgreen}
+
+#cannoli1 {width: 150px; height: 100px; float: right;}
